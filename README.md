@@ -140,5 +140,5 @@ Your choice in the requirements template shapes the entire system:
 ## Learn More
 
 - **Full workshop:** Join the [Dynamous community](https://dynamous.ai) for a 4-hour hands-on workshop covering every module
-- **Claude Agent SDK:** [Documentation](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/sdk)
+- **Claude Agent SDK:** [Documentation](https://code.claude.com/docs/en/agent-sdk/overview)
 - **Obsidian:** [obsidian.md](https://obsidian.md)
